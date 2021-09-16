@@ -29,9 +29,9 @@ function App() {
         <ScrollToTop />
         <Switch>
           <Route path="/pf/" exact component={Home} />
-          <Route path="/" exact component={Home} />
-          <Route path="/project" component={Projects} />
-          <Route path="/resume" component={Resume} />
+          <Route path="/" component={Home} />
+          <Route path="/project" exact component={Projects} />
+          <Route path="/resume" exact component={Resume} />
         </Switch>
       </div>
     </Router>

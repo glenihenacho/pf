@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pf/static/css/main.14d31d79.chunk.css",
+    "main.js": "/pf/static/js/main.32f1ad11.chunk.js",
+    "main.js.map": "/pf/static/js/main.32f1ad11.chunk.js.map",
+    "runtime-main.js": "/pf/static/js/runtime-main.ede714f6.js",
+    "runtime-main.js.map": "/pf/static/js/runtime-main.ede714f6.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/pf/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.419d3cc1.chunk.js": "/pf/static/js/2.419d3cc1.chunk.js",
+    "static/js/2.419d3cc1.chunk.js.map": "/pf/static/js/2.419d3cc1.chunk.js.map",
+    "static/js/3.a61abba2.chunk.js": "/pf/static/js/3.a61abba2.chunk.js",
+    "static/js/3.a61abba2.chunk.js.map": "/pf/static/js/3.a61abba2.chunk.js.map",
+    "index.html": "/pf/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/pf/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.14d31d79.chunk.css.map": "/pf/static/css/main.14d31d79.chunk.css.map",
+    "static/js/2.419d3cc1.chunk.js.LICENSE.txt": "/pf/static/js/2.419d3cc1.chunk.js.LICENSE.txt",
+    "static/media/Glen-Ihenacho.8b1959ae.pdf": "/pf/static/media/Glen-Ihenacho.8b1959ae.pdf",
+    "static/media/App.css": "/pf/static/media/home-bg.9b989673.jpg",
+    "static/media/home-main.541f8179.svg": "/pf/static/media/home-main.541f8179.svg",
+    "static/media/ivity.7fd3094d.png": "/pf/static/media/ivity.7fd3094d.png",
+    "static/media/leaf.4c15d6eb.png": "/pf/static/media/leaf.4c15d6eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ede714f6.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.419d3cc1.chunk.js",
+    "static/css/main.14d31d79.chunk.css",
+    "static/js/main.32f1ad11.chunk.js"
+  ]
+}
